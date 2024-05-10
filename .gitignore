@@ -160,7 +160,7 @@ cython_debug/
 .idea/
 
 /data
-/all_dataset
+/processed_datasets
 
 initial_dataset.h5ad
 normalized_dataset.h5ad
